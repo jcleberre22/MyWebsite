@@ -1,0 +1,48 @@
+
+#booking_header{
+	background-color: #2E2E2E;
+	color: #e8e800;
+	margin-bottom: 10px;
+}
+
+#booking_box{
+	border-color: #e8e800;
+	border-style: solid;
+	border-width: 1px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+#booking_date{
+	height: 31px;
+}
+
+#booking_nb_adults{
+
+}
+
+#booking_nb_children{
+
+}
+
+#booking_validation{
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	background-color: #eee;
+	margin-bottom: 10px;
+	padding: 10px;
+	color: red;
+}
+
+#table_booking_tour th{
+	color: #e8e800;
+}
+
+#table_booking_tour td{
+	padding: 23px;
+}
+
+#validation_booking{
+	color: green!important;
+}
